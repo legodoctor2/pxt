@@ -1,14 +1,8 @@
 # Getting started
+ing a common usage scenario: you are editing your own project and using GitHub to save your changes.
 
-Let's start discovering GitHub by explaining a common usage scenario: you are editing your own project and using GitHub to save your changes.
-
-### #youtube
 
 https://youtu.be/J-pI1sEWPV0
-
-## Step 1 - Create a repository
-
-A **repository** is used to organize a single project. Repositories will contain all the files needed for your MakeCode projects.
 
 1. Open the [editor](@homeurl@), create a new project
 2. Click on the **GitHub** button next to the **Save** button.
