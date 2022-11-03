@@ -1,24 +1,4 @@
-# Getting started
 
-Let's start discovering GitHub by explaining a common usage scenario: you are editing your own project and using GitHub to save your changes.
-
-### #youtube
-
-https://youtu.be/J-pI1sEWPV0
-
-## Step 1 - Create a repository
-
-A **repository** is used to organize a single project. Repositories will contain all the files needed for your MakeCode projects.
-
-1. Open the [editor](@homeurl@), create a new project
-2. Click on the **GitHub** button next to the **Save** button.
-3. Select a good name and description (it helps with internet searches!).
-
-### ~ hint
-
-#### Sign in
-
-If you haven't signed in yet with GitHub, you will be redirected to the GitHub sign in page. On your first use of MakeCode, you will also be asked to authorize the **Microsoft MakeCode with GitHub** app. This integrates MakeCode with GitHub using our GitHub app.
 
 Advanced users can use a [developer token](/github/token) so that they can work directly with GitHub without having to sign in with the app.
 
